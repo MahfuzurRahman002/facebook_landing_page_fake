@@ -1,0 +1,210 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+header{
+ background-color: #49659F;
+}
+.wraper{
+	width: 70%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.logo{
+ width: 15%;
+ float: left;
+}
+.logo a{
+text-decoration: none;
+}
+.logo a h1 {
+	color: white;
+	    font-size: 30px;
+}
+.log_in_form{
+	width: 40%;
+	float: right;
+}
+.log_in_form form{
+
+}
+.form_rap{
+overflow: hidden;
+margin-top: 11px;
+}
+.email_box{
+width: 37%;
+float: left;
+}
+.email_box label{
+	color: white;
+}
+.pass_box{
+width: 37%;
+float: left;
+margin-left: 25px;
+}
+.pass_box label{
+	color: white;
+}
+.pass_box a{
+	text-decoration:none;
+	color: rgba(255, 255, 255 ,.5);
+}
+.login_btn{
+width: 12.5%;
+float: left;
+margin: 18px 0 0 25px;
+background-color:#49659F;
+}
+.login_btn button{
+font-family: arial;
+    font-size: 12px;
+    font-weight: 700;
+    color: white;
+    border: 1px solid #29487d;
+    background-color: #4267b2;
+    float: right;
+    cursor: pointer;
+    padding: 4px 6px;
+}
+/*body part start*/
+#main_body{
+	padding-top: 30px;
+	background-color: #E0E4EF;
+}
+.conncet{
+	width: 50%;
+	float: left;
+}
+.conncet h1{
+font-size: 26px;
+color: #0e385f;
+}
+.banner_img{
+	width: 95%;
+
+}
+.banner_img img{
+	width: 100%;
+}
+.singup_form{
+	width: 40%;
+	float: right;
+}
+.singup_form h2{
+	font-size: 35px;
+    margin-bottom: 0px;
+    margin-top: 14px;
+}
+.singup_form h3{
+	    font-size: 18px;
+    font-weight: 500;
+    margin-top: 5px;
+}
+.for_form{}
+
+.first_name{
+	padding: 10px;
+    width: 43%;
+}
+.surname{
+	padding: 10px;
+    width: 43%;
+    margin-left:8px;
+}
+.email_phone{
+	    width: 94%;
+    padding: 10px;
+    margin-top: 20px;
+}
+.new_password{
+	width: 94%;
+    padding: 10px;
+    margin-top: 20px;
+}
+.first_name , .surname , .email_phone  , .new_password{
+	font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    background: white;
+    border: 1px solid #bdc7d8;
+    outline: none;
+}
+
+.bd_provid_rap{
+	overflow: hidden;
+	    margin-top: 10px;
+}
+.birthday{
+	width: 47%;
+    float: left;
+}
+.birthday label{
+	font-size: 18px;
+}
+.birthday select {
+    font-size: 13px;
+    height: 30px;
+    padding: 5px;
+    border: 1px solid #bdc7d8;
+    background: white;
+    outline: none;
+}
+.why_provide_bd{
+	width: 47%;
+    float: right;
+    margin-top: 16px;
+}
+.why_provide_bd a{
+	font-size: 13px;
+}
+.gender{
+	margin-top: 10px;
+}
+.notice{
+	color: #777;
+    font-size: 12px;
+    width: 316px;
+}
+.notice a {
+	text-decoration:none;
+}
+.sign_up_button{
+
+}
+.sign_up_button button{
+	font-weight: bold !important;
+    text-rendering: optimizelegibility;
+    min-width: 194px;
+    padding: 7px 20px;
+    text-align: center;
+    background: linear-gradient(#67ae55, #578843);
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    border: 1px solid #D9DDEB;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    letter-spacing: 1px;
+    position: relative;
+    text-shadow: 0 1px 2px rgba(0,0,0,.5);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 19px;
+    outline: none;
+}
+.creat_page{}
+.creat_page p{
+	color: #666;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding-top: 15px;
+    width: 300px;
+}
+.creat_page p a{
+	text-decoration:none;
+}
